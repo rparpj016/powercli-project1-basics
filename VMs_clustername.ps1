@@ -2,8 +2,8 @@
 
 #Synopsis 
 #Date : 30/03/2020
-#Author : Rafeekh
-#Modified by : Rafeekh
+#Author : Roshan
+#Modified by : Roshan
 # This script will list the VM counts by cluster name.
 
 #Connect to the Virtual centre uses passord from encrypted file
